@@ -34,6 +34,12 @@
       "unavailable": true
     },
     {
+      "extension": "600",
+      "identifier": "SHINANO1600",
+      "name": "Discord Gateway",
+      "type": "conference"
+    },
+    {
       "extension": "1000",
       "geolocationCoordinates": {
         "accuracy": 0,
