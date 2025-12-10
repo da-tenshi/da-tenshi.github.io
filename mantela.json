@@ -67,7 +67,7 @@
     {
       "extension": "2000",
       "identifier": "SHINANO12000",
-      "model": "Nothing Phone (2a)@Android 15",
+      "model": "Nothing Phone (2a)@Android 16",
       "name": "Reserved",
       "type": "reserved",
       "unavailable": true
@@ -83,10 +83,10 @@
     {
       "extension": "2002",
       "identifier": "SHINANO12002",
+      "image": "https://shinanomai.xyz/tkytel/img/MAINPC.JPG",
       "model": "handmade PC@Windows10 Pro x64",
       "name": "Win10",
-      "type": "phone",
-      "image": "https://shinanomai.xyz/tkytel/img/MAINPC.JPG"
+      "type": "phone"
     },
     {
       "extension": "2003",
@@ -208,27 +208,28 @@
     {
       "extension": "4001",
       "identifier": "SHINANO14001",
+      "model": "Friend",
       "name": "isoshigi-Rental",
-      "type": "unknown",
-      "model": "Friend"
+      "type": "unknown"
     },
     {
       "extension": "4002",
       "identifier": "SHINANO14002",
+      "model": "Friend",
       "name": "Karaten",
-      "type": "unknown",
-      "model": "Friend"
+      "type": "unknown"
     },
     {
       "extension": "4003",
       "identifier": "SHINANO14003",
+      "model": "Friend",
       "name": "KaratenII",
-      "type": "unknown",
-      "model": "Friend"
+      "type": "unknown"
     },
     {
       "extension": "5050",
       "identifier": "SHINANO15050",
+      "model": "Queue --> some tarminal",
       "name": "Numero di telefono diretto di Shinano Mai",
       "transferTo": [
         "SHINANO12000",
@@ -244,8 +245,7 @@
         "SHINANO12010",
         "MKN6EFRV"
       ],
-      "type": "main",
-      "model": "Queue --> some tarminal"
+      "type": "main"
     },
     {
       "extension": "5900",
@@ -534,16 +534,28 @@
       "prefix": "5552"
     },
     {
+      "identifier": "XXX:to-hutel",
+      "mantela": "",
+      "name": "to-hutel",
+      "prefix": "111"
+    },
+    {
       "identifier": "XXX:yank.nvim",
       "mantela": "",
       "name": "yank.nvim",
       "prefix": "334"
     },
     {
-      "identifier": "XXX:watanabe",
+      "identifier": "XXX:watanabe-tel",
       "mantela": "",
-      "name": "watanabe",
+      "name": "watanabe-tel",
       "prefix": "910"
+    },
+    {
+      "identifier": "XXX:dobob-tel",
+      "mantela": "",
+      "name": "dobob-tel",
+      "prefix": "737"
     }
   ],
   "version": "0.1.0"
