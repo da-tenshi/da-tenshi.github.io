@@ -384,11 +384,18 @@
       "prefix": "129"
     },
     {
+      "identifier": "9ec68766-eca9-47fd-b4d8-d89d121d7c75",
+      "mantela": "https://da-tenshi.github.io/AMtel.json",
+      "name": "AM-TEL",
+      "prefix": "222"
+    },
+    {
       "identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012",
       "mantela": "https://sousuke0422.github.io/.well-known/mantela.json",
       "name": "rei_k Public",
       "prefix": "224"
     },
+
     {
       "identifier": "47abe85d-fe09-691d-f928-4f75b27a157f",
       "mantela": "https://toybox.rainyvillage.jp/mantela/mantela.json",

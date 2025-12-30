@@ -79,16 +79,22 @@
   ],
   "providers": [
     {
-      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
-      "mantela": "https://da-tenshi.github.io/mantela.json",
-      "name": "SHINANOTEL",
-      "prefix": "661"
+      "identifier": "9ec68766-eca9-47fd-b4d8-d89d121d7c75",
+      "mantela": "https://da-tenshi.github.io/AMtel.json",
+      "name": "AM-TEL",
+      "prefix": "222"
     },
     {
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
       "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
       "name": "MikaNeTEL",
       "prefix": "510"
+    },
+    {
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json",
+      "name": "SHINANOTEL",
+      "prefix": "661"
     }
   ],
   "version": "0.1.0"
