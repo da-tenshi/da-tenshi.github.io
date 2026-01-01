@@ -457,6 +457,12 @@
       "prefix": "510"
     },
     {
+      "identifier": "c101f71a-f10d-4f39-af18-2a8f87bab5d0",
+      "mantela": "https://nomulabo.com/mantela/mantela.json",
+      "name": "montel",
+      "prefix": "599"
+    },
+    {
       "identifier": "d4ae222d-bff2-4511-a995-786825db4f37",
       "mantela": "https://da-tenshi.github.io/mantela_copy.json",
       "name": "SHINANOTEL Sub",
