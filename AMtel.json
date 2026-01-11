@@ -127,6 +127,12 @@
       "prefix": "510"
     },
     {
+      "identifier": "497F92E7-6B9F-4D33-91B9-B34E94402913",
+      "mantela": "https://sasakulab.com/.well-known/mantela.json",
+      "name": "sasakulab",
+      "prefix": "510"
+    },
+    {
       "identifier": "c101f71a-f10d-4f39-af18-2a8f87bab5d0",
       "mantela": "https://nomulabo.com/mantela/mantela.json",
       "name": "montel",
@@ -198,6 +204,12 @@
       "mantela": "https://meishicafei.github.io/.well-known/mantela.json",
       "name": "MCeTeLO",
       "prefix": "917"
+    },
+    {
+      "identifier": "bf979778-1d1f-4a33-abac-8cbc2f3dae91",
+      "mantela": "https://hkshuttle.github.io/tkytel/mantela.json",
+      "name": "sola-tel",
+      "prefix": "944"
     },
     {
       "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
