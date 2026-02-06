@@ -74,7 +74,7 @@
       "extension": "2000",
       "identifier": "SHINANO12000",
       "model": "Nothing Phone (2a)@Android 16",
-      "name": "Reserved",
+      "name": "SHINTRANET-Rurune",
       "type": "reserved",
       "unavailable": true
     },
@@ -91,7 +91,7 @@
       "identifier": "SHINANO12002",
       "image": "https://shinanomai.xyz/tkytel/img/MAINPC.JPG",
       "model": "handmade PC@Windows10 Pro x64",
-      "name": "Win10",
+      "name": "SHINANOMAINPC",
       "type": "phone"
     },
     {
@@ -122,8 +122,8 @@
       "extension": "2006",
       "identifier": "SHINANO12006",
       "image": "https://shinanomai.xyz/tkytel/img/WIN11.JPG",
-      "model": "ASUS BR1104FGA-NS0010XA@Windows 11 Education x64",
-      "name": "Win11 pettin",
+      "model": "ASUS BR1104FGA-NS0010XA@Windows 11 Education x64 / Kubuntu 25.04",
+      "name": "SHINTRANET-DeltaFlair",
       "type": "cellphone"
     },
     {
@@ -143,14 +143,6 @@
       "type": "smartphone"
     },
     {
-      "extension": "2009",
-      "identifier": "SHINANO12009",
-      "image": "https://shinanomai.xyz/tkytel/img/4790K.JPG",
-      "model": "Homemade PC@Windows 10 Pro x64 / Windows XP Professional x86",
-      "name": "Win10 4790K",
-      "type": "cellphone"
-    },
-    {
       "extension": "2010",
       "identifier": "SHINANO12010",
       "image": "https://shinanomai.xyz/tkytel/img/BIBLO.JPG",
@@ -168,7 +160,7 @@
       "extension": "3000",
       "identifier": "MKN6EFRV",
       "image": "https://shinanomai.xyz/tkytel/img/BLACK8.JPG",
-      "model": "601-A2型電話機",
+      "model": "601-A2型電話機@YAMAHA RT-58i #1",
       "name": "Brack8",
       "type": "dialphone"
     },
@@ -176,23 +168,23 @@
       "extension": "3001",
       "identifier": "SHINANO13001A",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Homemade PC@Windwos XP Professional x86 / Baffalo IGM-PCI56K/LD",
-      "name": "WinXP/Win7(Modem)",
+      "model": "Homemade PC@Windwos XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58i #1",
+      "name": "WinXP(Modem)",
       "type": "modem"
     },
     {
       "extension": "3001",
       "identifier": "SHINANO13001B",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Homemade PC@Windows XP Professional x86 / Baffalo IGM-PCI56K/LD",
-      "name": "WinXP/Win7(FAX)",
+      "model": "Homemade PC@Windows XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58i #1",
+      "name": "WinXP(FAX)",
       "type": "fax"
     },
     {
       "extension": "3001",
       "identifier": "SHINANO13001C",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Baffalo IGM-PCI56K/LD",
+      "model": "Baffalo IGM-PCI56K/LD@YAMAHA RT-58i #1",
       "name": "moderm build-in moduler port #01",
       "type": "modem",
       "unavailable": true
@@ -201,9 +193,39 @@
       "extension": "3002",
       "identifier": "SHINANO13002",
       "image": "https://shinanomai.xyz/tkytel/img/VETA10.JPG",
-      "model": "icom VE-TA10",
-      "name": "VE-TA10",
+      "model": "I-O DATA DFML-560ER@icom VE-TA10",
+      "name": "Dialup-PPP-Server",
       "type": "modem"
+    },
+    {
+      "extension": "3003",
+      "identifier": "SHINANO13003A",
+      "model": "富士通 OASYS LX-7500SD@YAMAHA RT-58i #2",
+      "name": "Fujitsu OASYS LX-7500SD(Modem)",
+      "type": "modem"
+    },
+    {
+      "extension": "3003",
+      "identifier": "SHINANO13003B",
+      "model": "富士通 OASYS LX-7500SD@YAMAHA RT-58i #2",
+      "name": "Fujitsu OASYS LX-7500SD(FAX)",
+      "type": "fax"
+    },
+    {
+      "extension": "3004",
+      "identifier": "SHINANO13004A",
+      "model": "OMRON MD-1200AII@YAMAHA RT-58i #2",
+      "name": "OMRON MD-1200AII(Modem)",
+      "type": "modem",
+      "unavailable": true
+    },
+    {
+      "extension": "3004",
+      "identifier": "SHINANO13004B",
+      "model": "OMRON MD-1200AII@YAMAHA RT-58i #2",
+      "name": "OMRON MD-1200AII(FAX)",
+      "type": "modem",
+      "unavailable": true
     },
     {
       "extension": "4000",
@@ -270,8 +292,7 @@
       "model": "Queue -->RT58#2,VE-TA10",
       "name": "FAX Linea diretta",
       "transferTo": [
-        "SHINANO13001B",
-        "SHINANO13002"
+        "SHINANO13001B"
       ],
       "type": "main"
     },
@@ -395,7 +416,6 @@
       "name": "rei_k Public",
       "prefix": "224"
     },
-
     {
       "identifier": "47abe85d-fe09-691d-f928-4f75b27a157f",
       "mantela": "https://toybox.rainyvillage.jp/mantela/mantela.json",
@@ -457,10 +477,16 @@
       "prefix": "510"
     },
     {
+      "identifier": "d58a55fa-ebbf-4832-a247-7289b8f4f08f",
+      "mantela": "https://kaji.jp/.well-known/mantela.json",
+      "name": "kaji-tteru",
+      "prefix": "520"
+    },
+    {
       "identifier": "497F92E7-6B9F-4D33-91B9-B34E94402913",
       "mantela": "https://sasakulab.com/.well-known/mantela.json",
       "name": "sasakulab",
-      "prefix": "510"
+      "prefix": "530"
     },
     {
       "identifier": "c101f71a-f10d-4f39-af18-2a8f87bab5d0",
