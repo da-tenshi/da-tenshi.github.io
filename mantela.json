@@ -586,16 +586,16 @@
       "prefix": "5551"
     },
     {
-      "identifier": "XXX:ShowTEL",
-      "mantela": "",
-      "name": "ShowTEL",
-      "prefix": "5552"
-    },
-    {
       "identifier": "XXX:to-hutel",
       "mantela": "",
       "name": "to-hutel",
       "prefix": "111"
+    },
+    {
+      "identifier": "XXX:Mute4816",
+      "mantela": "",
+      "name": "Mute4816",
+      "prefix": "237"
     },
     {
       "identifier": "XXX:yank.nvim",
@@ -614,6 +614,12 @@
       "mantela": "",
       "name": "dobob-tel",
       "prefix": "737"
+    },
+    {
+      "identifier": "XXX:ShowTEL",
+      "mantela": "",
+      "name": "ShowTEL",
+      "prefix": "5552"
     }
   ],
   "version": "0.1.0"
