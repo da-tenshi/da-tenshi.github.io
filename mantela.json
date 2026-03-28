@@ -202,7 +202,7 @@
       "identifier": "SHINANO13003A",
       "model": "601-PDCL@YAMAHA RT-58i #2",
       "name": "601-P-SANGO(TELPORT)",
-      "type": "modem"
+      "type": "pushphone"
     },
     {
       "extension": "3003",
