@@ -197,16 +197,23 @@
       "name": "Dialup-PPP-Server",
       "type": "modem"
     },
-    {
+        {
       "extension": "3003",
       "identifier": "SHINANO13003A",
+      "model": "601-PDCL@YAMAHA RT-58i #2",
+      "name": "601-P-SANGO(TELPORT)",
+      "type": "modem"
+    },
+    {
+      "extension": "3003",
+      "identifier": "SHINANO13003B",
       "model": "富士通 OASYS LX-7500SD@YAMAHA RT-58i #2",
       "name": "Fujitsu OASYS LX-7500SD(Modem)",
       "type": "modem"
     },
     {
       "extension": "3003",
-      "identifier": "SHINANO13003B",
+      "identifier": "SHINANO13003C",
       "model": "富士通 OASYS LX-7500SD@YAMAHA RT-58i #2",
       "name": "Fujitsu OASYS LX-7500SD(FAX)",
       "type": "fax"
@@ -417,6 +424,18 @@
       "prefix": "224"
     },
     {
+      "identifier": "8fa08edd-26e4-4762-99b1-109607e0fc22",
+      "mantela": "https://nemnet-lab-pbx.github.io/mantela/mantela.json",
+      "name": "みゅーと東京局",
+      "prefix": "237"
+    },
+    {
+      "identifier": "b45b51e4-307a-430e-8503-fe4f5b9672e8",
+      "mantela": "https://nemnet-lab-pbx.github.io/mantela/mantela.json",
+      "name": "みゅーと札幌局",
+      "prefix": "238"
+    },
+    {
       "identifier": "47abe85d-fe09-691d-f928-4f75b27a157f",
       "mantela": "https://toybox.rainyvillage.jp/mantela/mantela.json",
       "name": "hedgehog-tokyo",
@@ -574,6 +593,12 @@
       "prefix": "975"
     },
     {
+      "identifier": "398a8636-d530-44cc-9433-4b967c74265a",
+      "mantela": "https://yuriko.co.nz/.well-known/osaka-pbx.json",
+      "name": "osaka-pbx.voip\n.yuriko.co.nz",
+      "prefix": "976"
+    },
+    {
       "identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
       "mantela": "https://ajinori256.com/.well-known/mantela.json",
       "name": "NoriTEL",
@@ -592,16 +617,16 @@
       "prefix": "111"
     },
     {
-      "identifier": "XXX:Mute4816",
-      "mantela": "",
-      "name": "Mute4816",
-      "prefix": "237"
-    },
-    {
       "identifier": "XXX:yank.nvim",
       "mantela": "",
       "name": "yank.nvim",
       "prefix": "334"
+    },
+    {
+      "identifier": "XXX:kurage-tel",
+      "mantela": "",
+      "name": "kurage-tel",
+      "prefix": "495"
     },
     {
       "identifier": "XXX:watanabe-tel",
