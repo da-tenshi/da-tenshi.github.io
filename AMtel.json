@@ -154,7 +154,8 @@
       "identifier": "c101f71a-f10d-4f39-af18-2a8f87bab5d0",
       "mantela": "https://nomulabo.com/mantela/mantela.json",
       "name": "montel",
-      "prefix": "599"
+      "prefix": "599",
+      "unavailable": true
     },
     {
       "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
