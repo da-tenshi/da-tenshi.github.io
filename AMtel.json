@@ -122,7 +122,7 @@
     },
     {
       "identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
-      "mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json",
+      "mantela": "https://mantela.kusaremkn.com/mikanetel.json",
       "name": "MikaNeTEL",
       "prefix": "510"
     },
@@ -130,7 +130,7 @@
       "identifier": "497F92E7-6B9F-4D33-91B9-B34E94402913",
       "mantela": "https://sasakulab.com/.well-known/mantela.json",
       "name": "sasakulab",
-      "prefix": "510"
+      "prefix": "530"
     },
     {
       "identifier": "c101f71a-f10d-4f39-af18-2a8f87bab5d0",
