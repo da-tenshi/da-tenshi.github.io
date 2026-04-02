@@ -29,15 +29,15 @@
       "extension": "117",
       "identifier": "SHINANO1117",
       "model": "Asterisk PHP-AGI Script@Miko PBX",
-      "name": "Time signal",
-      "type": "information",
-      "unavailable": true
+      "name": "Time signal 117",
+      "type": "information"
     },
     {
       "extension": "600",
       "identifier": "SHINANO1600",
       "name": "Discord Gateway",
-      "type": "conference"
+      "type": "conference",
+      "unavailable": true
     },
     {
       "extension": "1000",
@@ -75,8 +75,7 @@
       "identifier": "SHINANO12000",
       "model": "Nothing Phone (2a)@Android 16",
       "name": "SHINTRANET-Rurune",
-      "type": "reserved",
-      "unavailable": true
+      "type": "smartphone"
     },
     {
       "extension": "2001",
@@ -114,7 +113,7 @@
       "extension": "2005",
       "identifier": "SHINANO12005",
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG",
-      "model": "NTTドコモ ARROWS NX F-05F@Android 5.0.2",
+      "model": "NTT DoCoMo ARROWS NX F-05F@Android 5.0.2",
       "name": "Arrows NX",
       "type": "smartphone"
     },
@@ -138,7 +137,7 @@
       "extension": "2008",
       "identifier": "SHINANO12008",
       "image": "https://shinanomai.xyz/tkytel/img/N07D.JPG",
-      "model": "NTTドコモ MEDIAS X N-07D@Android 4.1.2",
+      "model": "NTT DoCoMo MEDIAS X N-07D@Android 4.1.2",
       "name": "MEDIAS N-07D",
       "type": "smartphone"
     },
@@ -146,7 +145,7 @@
       "extension": "2010",
       "identifier": "SHINANO12010",
       "image": "https://shinanomai.xyz/tkytel/img/BIBLO.JPG",
-      "model": "富士通 FMV-BIBLO NF/A50 FMVNFA50@Windows 7 Ulutimate x64",
+      "model": "Fujitsu FMV-BIBLO NF/A50 FMVNFA50@Windows 7 Ulutimate x64",
       "name": "Fujitsu FMV-BIBLO NF/A50",
       "type": "cellphone"
     },
@@ -160,7 +159,7 @@
       "extension": "3000",
       "identifier": "MKN6EFRV",
       "image": "https://shinanomai.xyz/tkytel/img/BLACK8.JPG",
-      "model": "601-A2型電話機@YAMAHA RT-58i #1",
+      "model": "Type 601-A2@YAMAHA RT-58iN1",
       "name": "Brack8",
       "type": "dialphone"
     },
@@ -168,7 +167,7 @@
       "extension": "3001",
       "identifier": "SHINANO13001A",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Homemade PC@Windwos XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58i #1",
+      "model": "Homemade PC@Windwos XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN1",
       "name": "WinXP(Modem)",
       "type": "modem"
     },
@@ -176,7 +175,7 @@
       "extension": "3001",
       "identifier": "SHINANO13001B",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Homemade PC@Windows XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58i #1",
+      "model": "Homemade PC@Windows XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN1",
       "name": "WinXP(FAX)",
       "type": "fax"
     },
@@ -184,7 +183,7 @@
       "extension": "3001",
       "identifier": "SHINANO13001C",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Baffalo IGM-PCI56K/LD@YAMAHA RT-58i #1",
+      "model": "Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN1",
       "name": "moderm build-in moduler port #01",
       "type": "modem",
       "unavailable": true
@@ -200,28 +199,28 @@
         {
       "extension": "3003",
       "identifier": "SHINANO13003A",
-      "model": "601-PDCL@YAMAHA RT-58i #2",
-      "name": "601-P-SANGO(TELPORT)",
+      "model": "Type 601-P\"D\"CL(C)@YAMAHA RT-58iN2",
+      "name": "Dial-Push=SangoChan(TELPort)",
       "type": "pushphone"
     },
     {
       "extension": "3003",
       "identifier": "SHINANO13003B",
-      "model": "富士通 OASYS LX-7500SD@YAMAHA RT-58i #2",
+      "model": "Fujitsu OASYS LX-7500SD@YAMAHA RT-58iN2",
       "name": "Fujitsu OASYS LX-7500SD(Modem)",
       "type": "modem"
     },
     {
       "extension": "3003",
       "identifier": "SHINANO13003C",
-      "model": "富士通 OASYS LX-7500SD@YAMAHA RT-58i #2",
+      "model": "Fujitsu OASYS LX-7500SD@YAMAHA RT-58iN2",
       "name": "Fujitsu OASYS LX-7500SD(FAX)",
       "type": "fax"
     },
     {
       "extension": "3004",
       "identifier": "SHINANO13004A",
-      "model": "OMRON MD-1200AII@YAMAHA RT-58i #2",
+      "model": "OMRON MD-1200AII@YAMAHA RT-58iN2",
       "name": "OMRON MD-1200AII(Modem)",
       "type": "modem",
       "unavailable": true
@@ -229,7 +228,7 @@
     {
       "extension": "3004",
       "identifier": "SHINANO13004B",
-      "model": "OMRON MD-1200AII@YAMAHA RT-58i #2",
+      "model": "OMRON MD-1200AII@YAMAHA RT-58iN2",
       "name": "OMRON MD-1200AII(FAX)",
       "type": "modem",
       "unavailable": true
@@ -265,7 +264,7 @@
       "extension": "5050",
       "identifier": "SHINANO15050",
       "model": "Queue --> some tarminal",
-      "name": "Numero di telefono diretto di Shinano Mai",
+      "name": "Queue \"Mai\"n",
       "transferTo": [
         "SHINANO12000",
         "SHINANO12001",
@@ -307,21 +306,21 @@
       "extension": "7901",
       "identifier": "SHINANO17901",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
-      "name": "встреча #1",
+      "name": "Conf #1",
       "type": "conference"
     },
     {
       "extension": "7902",
       "identifier": "SHINANO17902",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
-      "name": "встреча #2",
+      "name": "Conf #2",
       "type": "conference"
     },
     {
       "extension": "7903",
       "identifier": "SHINANO17903",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
-      "name": "встреча #3",
+      "name": "Conf #3",
       "type": "conference"
     },
     {
@@ -629,6 +628,12 @@
       "mantela": "",
       "name": "kurage-tel",
       "prefix": "495"
+    },
+    {
+      "identifier": "XXX:cocon-tel",
+      "mantela": "",
+      "name": "cocon-tel",
+      "prefix": "550"
     },
     {
       "identifier": "XXX:watanabe-tel",
