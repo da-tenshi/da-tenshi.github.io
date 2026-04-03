@@ -527,6 +527,12 @@
       "unavailable": true
     },
     {
+      "identifier": "31e54b78-fdf0-4733-aa6c-60b5a92bb3c0",
+      "mantela": "https://roiarise.github.io/mantela.json",
+      "name": "roi-tel",
+      "prefix": "732"
+    },
+    {
       "identifier": "41aca3d1-6882-4e4d-9651-5e52464902e7",
       "mantela": "https://halka.jp/.well-known/mantela.json",
       "name": "Goryokaku",
@@ -634,12 +640,6 @@
       "mantela": "",
       "name": "cocon-tel",
       "prefix": "550"
-    },
-    {
-      "identifier": "XXX:roiarise",
-      "mantela": "",
-      "name": "roiarise",
-      "prefix": "732"
     },
     {
       "identifier": "XXX:dobob-tel",
