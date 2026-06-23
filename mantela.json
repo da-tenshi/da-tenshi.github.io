@@ -60,7 +60,7 @@
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
       "model": "IVR@Miko PBX",
       "name": "Connection Test(Miko Ouka)",
-      "type": "application"
+      "type": "music"
     },
     {
       "extension": "1500",
@@ -99,7 +99,8 @@
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG",
       "model": "SONY Xperia Z5 SO-01H@Android 7.0",
       "name": "Experia Z5",
-      "type": "smartphone"
+      "type": "smartphone",
+      "unavailable": true
     },
     {
       "extension": "2004",
@@ -107,7 +108,8 @@
       "image": "https://shinanomai.xyz/tkytel/img/SMARTPHONES.JPG",
       "model": "SONY Xperia Z2 SO-03F@Android 6.0.1",
       "name": "Experia Z2",
-      "type": "smartphone"
+      "type": "smartphone",
+      "unavailable": true
     },
     {
       "extension": "2005",
@@ -147,13 +149,15 @@
       "image": "https://shinanomai.xyz/tkytel/img/BIBLO.JPG",
       "model": "Fujitsu FMV-BIBLO NF/A50 FMVNFA50@Windows 7 Ulutimate x64",
       "name": "Fujitsu FMV-BIBLO NF/A50",
-      "type": "cellphone"
+      "type": "cellphone",
+      "unavailable": true
     },
     {
       "extension": "2025",
       "identifier": "SHINANO12025",
       "name": "2025",
-      "type": "reserved"
+      "type": "reserved",
+      "unavailable": true
     },
     {
       "extension": "3000",
@@ -185,7 +189,7 @@
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
       "model": "Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN1",
       "name": "moderm build-in moduler port #01",
-      "type": "modem",
+      "type": "other",
       "unavailable": true
     },
     {
@@ -193,15 +197,15 @@
       "identifier": "SHINANO13002",
       "image": "https://shinanomai.xyz/tkytel/img/VETA10.JPG",
       "model": "I-O DATA DFML-560ER@icom VE-TA10",
-      "name": "Dialup-PPP-Server",
+      "name": "@SNET Dialup Service",
       "type": "modem"
     },
-        {
+    {
       "extension": "3003",
       "identifier": "SHINANO13003A",
       "model": "Type 601-P\"D\"CL(C)@YAMAHA RT-58iN2",
       "name": "Dial-Push=SangoChan(TELPort)",
-      "type": "pushphone"
+      "type": "dialphone"
     },
     {
       "extension": "3003",
@@ -234,10 +238,26 @@
       "unavailable": true
     },
     {
+      "extension": "3005",
+      "identifier": "SHINANO13005",
+      "model": "Cisco IP Phone CP-7942G",
+      "name": "Cisco IP Phone CP-7942G",
+      "type": "pushphone",
+      "unavailable": false
+    },
+    {
+      "extension": "3403",
+      "identifier": "SHINANO13403",
+      "model": "Friend",
+      "name": "Asahi",
+      "type": "unknown",
+      "unavailable": false
+    },
+    {
       "extension": "4000",
       "identifier": "SHINANO14000",
       "name": "Rental Root (Miko Ouka)",
-      "type": "information"
+      "type": "music"
     },
     {
       "extension": "4001",
@@ -277,28 +297,8 @@
         "SHINANO12008",
         "SHINANO12009",
         "SHINANO12010",
-        "MKN6EFRV"
-      ],
-      "type": "main"
-    },
-    {
-      "extension": "5900",
-      "identifier": "SHINANO15900",
-      "model": "Queue --> Xperia",
-      "name": "Experia Linea diretta",
-      "transferTo": [
-        "SHINANO12003",
-        "SHINANO12004"
-      ],
-      "type": "main"
-    },
-    {
-      "extension": "5901",
-      "identifier": "SHINANO15901",
-      "model": "Queue -->RT58#2,VE-TA10",
-      "name": "FAX Linea diretta",
-      "transferTo": [
-        "SHINANO13001B"
+        "MKN6EFRV",
+        "SHINANO13005"
       ],
       "type": "main"
     },
@@ -374,12 +374,6 @@
     }
   ],
   "providers": [
-    {
-      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
-      "mantela": "https://da-tenshi.github.io/mantela.json",
-      "name": "SHINANOTEL",
-      "prefix": "0"
-    },
     {
       "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
       "mantela": "https://da-tenshi.github.io/mantela.json",
@@ -479,6 +473,13 @@
       "name": "yoshina",
       "prefix": "447",
       "unavailable": true
+    },
+    {
+      "identifier": "402b0d3f-d499-4bf7-8ef0-bd25c1edd69a",
+      "mantela": "https://allianaab2m.github.io/mantela/mantela.json",
+      "name": "ab2m-ありあな局",
+      "prefix": "447",
+      "unavailable": false
     },
     {
       "identifier": "008902ee-6102-48b9-8e70-49d27058ad7e",
