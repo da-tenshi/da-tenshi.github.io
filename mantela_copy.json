@@ -17,7 +17,8 @@
     "sipUri": [
       "sip:100.78.22.12:5060;transport=udp",
       "sip:100.78.22.12:5060;transport=tcp"
-    ]
+    ],
+    "unavailable": true
   },
   "extensions": [
     {
