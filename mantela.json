@@ -528,6 +528,12 @@
       "unavailable": true
     },
     {
+      "identifier": "58a51ff5-e56c-7814-48c8-6bb492703345",
+      "mantela": "https://da-tenshi.github.io/delta.json",
+      "name": "SNET-DeltaFlair",
+      "prefix": "664"
+    },
+    {
       "identifier": "31e54b78-fdf0-4733-aa6c-60b5a92bb3c0",
       "mantela": "https://roiarise.github.io/mantela.json",
       "name": "roi-tel",

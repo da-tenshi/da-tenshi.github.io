@@ -1,0 +1,43 @@
+{
+  "$schema": "https://tkytel.github.io/mantela/0.1/mantela.schema.json",
+  "aboutMe": {
+    "identifier": "58a51ff5-e56c-7814-48c8-6bb492703345",
+    "name": "SNET-DeltaFlair",
+    "preferredPrefix": [
+      "664",
+      "0664"
+    ],
+    "unavailable": false
+  },
+  "extensions": [
+    {
+      "extension": "1000",
+      "identifier": "SHINANO41000",
+      "name": "TEST",
+      "type": "music"
+    },
+    {
+      "extension": "3003",
+      "identifier": "SHINANO43003",
+      "model": "RT-58iN2",
+      "name": "Osaka",
+      "type": "other"
+    },
+    {
+      "extension": "3006",
+      "identifier": "SHINANO43006",
+      "model": "snom-300",
+      "name": "Nishinomiya",
+      "type": "other"
+    }
+  ],
+  "providers": [
+    {
+      "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+      "mantela": "https://da-tenshi.github.io/mantela.json",
+      "name": "SHINANOTEL",
+      "prefix": "661"
+    }
+  ],
+  "version": "0.1.0"
+}
