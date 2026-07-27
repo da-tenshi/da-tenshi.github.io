@@ -224,16 +224,15 @@
     {
       "extension": "3004",
       "identifier": "SHINANO13004A",
-      "model": "OMRON MD-1200AII@YAMAHA RT-58iN2",
-      "name": "OMRON MD-1200AII(Modem)",
-      "type": "modem",
-      "unavailable": true
+      "model": "OMRON MD-1200AII/III@YAMAHA RT-58iN2",
+      "name": "OMRON MD-1200AII/III(Modem)",
+      "type": "modem"
     },
     {
       "extension": "3004",
       "identifier": "SHINANO13004B",
-      "model": "OMRON MD-1200AII@YAMAHA RT-58iN2",
-      "name": "OMRON MD-1200AII(FAX)",
+      "model": "OMRON MD-1200AII/III@YAMAHA RT-58iN2",
+      "name": "OMRON MD-1200AII/III(FAX)",
       "type": "modem",
       "unavailable": true
     },
