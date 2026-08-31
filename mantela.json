@@ -193,14 +193,6 @@
       "unavailable": true
     },
     {
-      "extension": "3002",
-      "identifier": "SHINANO13002",
-      "image": "https://shinanomai.xyz/tkytel/img/VETA10.JPG",
-      "model": "I-O DATA DFML-560ER@icom VE-TA10",
-      "name": "@SNET Dialup Service",
-      "type": "modem"
-    },
-    {
       "extension": "3003",
       "identifier": "SHINANO13003A",
       "model": "Type 601-P\"D\"CL(C)@YAMAHA RT-58iN2",
@@ -243,6 +235,14 @@
       "name": "Cisco IP Phone CP-7942G",
       "type": "pushphone",
       "unavailable": false
+    },
+    {
+      "extension": "3100",
+      "identifier": "SHINANO13100",
+      "image": "https://shinanomai.xyz/tkytel/img/VETA10.JPG",
+      "model": "I-O DATA DFML-560ER@icom VE-TA10",
+      "name": "@SNET Dialup Service",
+      "type": "modem"
     },
     {
       "extension": "3403",
@@ -297,7 +297,8 @@
         "SHINANO12009",
         "SHINANO12010",
         "MKN6EFRV",
-        "SHINANO13005"
+        "SHINANO13005",
+        "SHINANO13006"
       ],
       "type": "main"
     },
