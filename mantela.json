@@ -585,6 +585,12 @@
       "unavailable": true
     },
     {
+      "identifier": "dc727e60-251e-4b97-af2c-927df9042dcd",
+      "mantela": "https://yanchon918s.github.io/mantela/mantela.json",
+      "name": "Yanchon-tel",
+      "prefix": "918"
+    },
+    {
       "identifier": "bf979778-1d1f-4a33-abac-8cbc2f3dae91",
       "mantela": "https://hkshuttle.github.io/tkytel/mantela.json",
       "name": "sola-tel",
