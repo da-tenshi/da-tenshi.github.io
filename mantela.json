@@ -55,6 +55,12 @@
       "unavailable": true
     },
     {
+      "extension": "1025",
+      "identifier": "SHINANO11025",
+      "name": "usbharu",
+      "type": "smartphone"
+    },
+    {
       "extension": "1234",
       "identifier": "SHINANO11234",
       "image": "https://shinanomai.xyz/tkytel/img/PBX_PROXMOX.JPG",
@@ -71,9 +77,21 @@
       "unavailable": true
     },
     {
+      "extension": "1671",
+      "identifier": "SHINANO11671",
+      "name": "nexryai iPhone",
+      "type": "smartphone"
+    },
+    {
+      "extension": "1672",
+      "identifier": "SHINANO11672",
+      "name": "nexryai Galaxy",
+      "type": "smartphone"
+    },
+    {
       "extension": "2000",
       "identifier": "SHINANO12000",
-      "model": "Nothing Phone (2a)@Android 16",
+      "model": "Nothing Phone (2a)@Android 17",
       "name": "SHINTRANET-Rurune",
       "type": "smartphone"
     },
@@ -153,6 +171,34 @@
       "unavailable": true
     },
     {
+      "extension": "2011",
+      "identifier": "SHINANO12011",
+      "model": "OPPO Reno 5A@Android 12",
+      "name": "SNET-nex",
+      "type": "smartphone"
+    },
+    {
+      "extension": "2012",
+      "identifier": "SHINANO12012",
+      "model": "Fujitsu Arrows X F-10D@Android 4.0.3",
+      "name": "SNET-F10-D",
+      "type": "smartphone"
+    },
+    {
+      "extension": "2013",
+      "identifier": "SHINANO12013",
+      "model": "Fujitsu Arrows X F-01F@Android 4.4.2",
+      "name": "SNET-F10-D",
+      "type": "smartphone"
+    },
+    {
+      "extension": "2014",
+      "identifier": "SHINANO12014",
+      "model": "Nintendo Switch 2017@Kubuntu Linux",
+      "name": "SNET-NINTENDO",
+      "type": "cellphone"
+    },
+    {
       "extension": "2025",
       "identifier": "SHINANO12025",
       "name": "2025",
@@ -171,7 +217,7 @@
       "extension": "3001",
       "identifier": "SHINANO13001A",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Homemade PC@Windwos XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN1",
+      "model": "Homemade PC@Windwos Vista Ultimate x64 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN2",
       "name": "WinXP(Modem)",
       "type": "modem"
     },
@@ -179,7 +225,7 @@
       "extension": "3001",
       "identifier": "SHINANO13001B",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Homemade PC@Windows XP Professional x86 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN1",
+      "model": "Homemade PC@Windows Vista Ultimate x64 / Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN2",
       "name": "WinXP(FAX)",
       "type": "fax"
     },
@@ -187,18 +233,12 @@
       "extension": "3001",
       "identifier": "SHINANO13001C",
       "image": "https://shinanomai.xyz/tkytel/img/MODERM.JPG",
-      "model": "Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN1",
+      "model": "Baffalo IGM-PCI56K/LD@YAMAHA RT-58iN2",
       "name": "moderm build-in moduler port #01",
       "type": "other",
       "unavailable": true
     },
-    {
-      "extension": "3003",
-      "identifier": "SHINANO13003A",
-      "model": "Type 601-P\"D\"CL(C)@YAMAHA RT-58iN2",
-      "name": "Dial-Push=SangoChan(TELPort)",
-      "type": "dialphone"
-    },
+    
     {
       "extension": "3003",
       "identifier": "SHINANO13003B",
@@ -215,18 +255,10 @@
     },
     {
       "extension": "3004",
-      "identifier": "SHINANO13004A",
-      "model": "OMRON MD-1200AII/III@YAMAHA RT-58iN2",
-      "name": "OMRON MD-1200AII/III(Modem)",
+      "identifier": "SHINANO13004",
+      "model": "NEC CMZ-2424/S@YAMAHA RT-58iN1",
+      "name": "COMSTARTZ CLUB-24/5 2400",
       "type": "modem"
-    },
-    {
-      "extension": "3004",
-      "identifier": "SHINANO13004B",
-      "model": "OMRON MD-1200AII/III@YAMAHA RT-58iN2",
-      "name": "OMRON MD-1200AII/III(FAX)",
-      "type": "modem",
-      "unavailable": true
     },
     {
       "extension": "3005",
@@ -237,12 +269,42 @@
       "unavailable": false
     },
     {
+      "extension": "3006",
+      "identifier": "SHINANO13006",
+      "model": "snom 300",
+      "name": "snom 300",
+      "type": "pushphone",
+      "unavailable": false
+    },
+    {
+      "extension": "3007",
+      "identifier": "SHINANO13007",
+      "model": "Type 601-P\"D\"CL(C)@YAMAHA RT-57iN1",
+      "name": "Dial-Push-SangoChan",
+      "type": "dialphone"
+    },
+    {
+      "extension": "3008",
+      "identifier": "SHINANO13008",
+      "model": "OMRON MD-1200AII/III@YAMAHA RT-57iN1",
+      "name": "XP-Modem2 1200",
+      "type": "modem",
+      "unavailable": false
+    },
+    {
       "extension": "3100",
       "identifier": "SHINANO13100",
       "image": "https://shinanomai.xyz/tkytel/img/VETA10.JPG",
       "model": "I-O DATA DFML-560ER@icom VE-TA10",
-      "name": "@SNET Dialup Service",
+      "name": "@SNET Dialup Service 48000",
       "type": "modem"
+    },
+    {
+      "extension": "3200",
+      "identifier": "SHINANO13200",
+      "model": "SONY Playstation 2",
+      "name": "PlayStation 2",
+      "type": "other"
     },
     {
       "extension": "3403",
@@ -268,15 +330,25 @@
     {
       "extension": "4002",
       "identifier": "SHINANO14002",
-      "model": "Friend",
       "name": "Karaten",
       "type": "unknown"
     },
     {
       "extension": "4003",
       "identifier": "SHINANO14003",
-      "model": "Friend",
       "name": "KaratenII",
+      "type": "unknown"
+    },
+    {
+      "extension": "4152",
+      "identifier": "SHINANO14152",
+      "name": "momizi06 #1",
+      "type": "unknown"
+    },
+    {
+      "extension": "4153",
+      "identifier": "SHINANO14153",
+      "name": "momizi06 #2",
       "type": "unknown"
     },
     {
@@ -296,9 +368,13 @@
         "SHINANO12008",
         "SHINANO12009",
         "SHINANO12010",
+        "SHINANO12011",
+        "SHINANO12012",
+        "SHINANO12013",
         "MKN6EFRV",
         "SHINANO13005",
-        "SHINANO13006"
+        "SHINANO13006",
+        "SHINANO13007"
       ],
       "type": "main"
     },
@@ -597,7 +673,7 @@
       "prefix": "944"
     },
     {
-      "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
+      "identifier": "ff07d332-2c68-4107-808a-206e64615d4a",
       "mantela": "https://www.kur0den.net/.well-known/mantela.json",
       "name": "Kur0den-tel",
       "prefix": "961"
@@ -641,6 +717,12 @@
       "name": "yank.nvim",
       "prefix": "334",
       "unavailable": true
+    },
+    {
+      "identifier": "XXX:unagi_dojyo_tel",
+      "mantela": "",
+      "name": "unagi_dojyo-tel",
+      "prefix": "430"
     },
     {
       "identifier": "XXX:kurage-tel",
